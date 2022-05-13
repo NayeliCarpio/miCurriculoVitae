@@ -1,4 +1,4 @@
-# CV Online - Gonzalo Muñoz
+# CV Online - Nayeli Carpio Alvarado
 
 Este es un proyecto simple utilizando Html, Css y Js para realizar un Currículum Vitae online con mis
 experiencias laborales, perfil y habilidades. 
